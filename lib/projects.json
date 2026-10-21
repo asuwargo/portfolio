@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Recipe Analysis",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "DSC 80 project using Food.com data to predict a recipe's calories and to test whether cooking time affects its ratings."
+    },
+    {
+        "title": "Chronic Kidney Disease Classification",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Built a binary classification pipeline to predict Chronic Kidney Disease from 200 patient records with 25 clinical predictors, comparing Logistic Regression, KNN, and Decision Trees with 5-fold cross-validation and evaluating with ROC-AUC, sensitivity, and specificity."
+    },
+    {
+        "title": "Video Game Sales and Student Performance",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "COGS 108 group project studying the association between video game sales in Europe and PISA scores of 15-year-olds from 2000 to 2015."
+    },
+    {
+        "title": "Persuasive or Deceptive Visualization?",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "DSC 106 Project 2: a team project building two visualizations from the same state-level abortion data to compare persuasive and deceptive design."
+    },
+    {
+        "title": "Personal Portfolio Website",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "This site! Built for DSC 106 with HTML, CSS, and JavaScript. Projects are loaded from a JSON file and my GitHub stats come live from the GitHub API."
+    },
+    {
+        "title": "CSE 158 Assignment 1",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Predictive modeling assignment for CSE 158 (Web Mining and Recommender Systems)."
+    },
+    {
+        "title": "CSE 150A Course Project",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Course project for CSE 150A applying probabilistic reasoning and machine learning methods."
+    },
+    {
+        "title": "Natality Data Analysis",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Math 189 assignment in R using California birth data by county (2007–2024) to test whether the proportion of female births is the same across all counties."
+    },
+    {
+        "title": "Grocery Data Visualization",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Tableau visualization of a grocery product dataset for DSC 106."
+    },
+    {
+        "title": "DSC 100 Database Assignments",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Homework for DSC 100 (Introduction to Data Management) working with relational databases and SQL."
+    },
+    {
+        "title": "CIS 44H Midterm: Plotting in R",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Midterm project for CIS 44H writing R functions and plots."
+    },
+    {
+        "title": "CIS 44H Final Project",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Final project for CIS 44H combining R functions and data visualization."
+    }
+]
